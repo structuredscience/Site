@@ -9,7 +9,7 @@ from shutil import copyfile
 ###################################################################################################
 
 # Define the string definitions of commands to use
-CLONE_COMMAND = 'git clone https://github.com/openlists/{}'
+CLONE_COMMAND = 'git clone https://github.com/structuredscience/{}'
 RM_COMMAND = 'rm -rf {}'
 
 # Define what to add to the files
